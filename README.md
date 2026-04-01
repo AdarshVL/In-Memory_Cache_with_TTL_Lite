@@ -165,11 +165,33 @@ java Solution < sample_input.txt
 ```text
 InMemory-Cache-TTL-Lite/
 │
-├── Solution.java
-├── sample_input.txt
 ├── README.md
 ├── PROBLEM_STATEMENT.md
 ├── report.pdf
+│
+├── problems/
+│   ├── problem1_basic_storage.md
+│   ├── problem2_delete.md
+│   ├── problem3_stats.md
+│   ├── problem4_ttl.md
+│   └── problem5_report.md
+│
+├── solutions/
+│   ├── solution1_basic_storage.java
+│   ├── solution2_delete.java
+│   ├── solution3_stats.java
+│   ├── solution4_ttl.java
+│   └── solution5_report.java
+│
+├── src/
+│   └── Solution.java   ← FINAL COMBINED CODE
+│
+├── test/
+│   └── sample_input.txt
+│
+└── assets/   (optional)
+    ├── output.png
+    └── demo.gif
 ```
 
 ---
