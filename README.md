@@ -168,6 +168,7 @@ InMemory-Cache-TTL-Lite/
 ├── README.md
 ├── PROBLEM_STATEMENT.md
 ├── report.pdf
+├── SYSTEM_DESIGN.md
 │
 ├── problems/
 │   ├── problem1_basic_storage.md
