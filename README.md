@@ -169,6 +169,7 @@ InMemory-Cache-TTL-Lite/
 ├── PROBLEM_STATEMENT.md
 ├── report.pdf
 ├── SYSTEM_DESIGN.md
+├── sample_input.txt
 │
 ├── problems/
 │   ├── problem1_basic_storage.md
@@ -186,9 +187,6 @@ InMemory-Cache-TTL-Lite/
 │
 ├── src/
 │   └── Solution.java   ← FINAL COMBINED CODE
-│
-├── test/
-│   └── sample_input.txt
 │
 └── assets/   (optional)
     ├── output.png
