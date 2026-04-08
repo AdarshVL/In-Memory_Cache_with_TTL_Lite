@@ -1,0 +1,23 @@
+SET a 1 100
+SET b 2 200
+SET c 3 50
+
+GET a
+GET b
+GET x
+
+PASS 30
+GET c
+
+PASS 30
+GET c
+
+DELETE b
+GET b
+
+STATS
+
+SET d 4 100
+SET e 5 100
+
+REPORT
