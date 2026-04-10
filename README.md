@@ -190,6 +190,10 @@ InMemory-Cache-TTL-Lite/
     └── Solution.java   ← FINAL COMBINED CODE
 
 ```
+---
+
+## 📁 Project flow diagram 
+<img width="1024" height="1536" alt="In-Memory Cache architecture flowchart" src="https://github.com/user-attachments/assets/9b3af801-7d8c-4bed-b246-b2662f6c4d59" />
 
 ---
 
