@@ -99,7 +99,7 @@ All outputs follow this structure:
 
 ## 📊 Sample Input
 
-```text
+```
 SET a 1 100
 SET b 2 200
 GET a
