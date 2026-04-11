@@ -184,25 +184,6 @@ else → expired
 
 ---
 
-## 🔷 Mermaid Diagram (GitHub Visual)
-
-```mermaid
-flowchart TD
-    A[User Input] --> B[Command Parser]
-    B --> C[Cache Engine]
-
-    C --> D[HashMap Storage]
-    C --> E[Time Manager]
-    C --> F[Stats Tracker]
-
-    D --> G[Node (value + expiry)]
-
-    C --> H[Output Formatter]
-    H --> I[Final Output]
-```
-
----
-
 ## 🚀 Summary
 
 This architecture demonstrates how a simple system can be designed using:
